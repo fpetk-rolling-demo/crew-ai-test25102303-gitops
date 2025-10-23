@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: crew-ai-test25102303-repository
+spec:
+  url: https://github.com/fpetk-rolling-demo/crew-ai-test25102303
